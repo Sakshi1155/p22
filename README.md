@@ -1,4 +1,4 @@
-### README for MyToken Smart Contract
+###  MyToken Smart Contract
 
 ## Overview
 
